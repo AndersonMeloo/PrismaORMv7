@@ -1,5 +1,5 @@
 # PrismaORMv7:
-## Projeto de Teste com Prisma ORM (versão atualizada)
+- Projeto de Teste com Prisma ORM (versão atualizada)
 
 ## Tecnologias utilizadas
 
