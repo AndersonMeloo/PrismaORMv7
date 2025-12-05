@@ -6,7 +6,7 @@
 - Node.js
 - TypeScript
 - Prisma ORM (nova versão)
-- SQLite (banco de dados para teste)
+- PostgreSQL
 - TSX (para rodar o TypeScript sem compilar)
 
 ## Como rodar o projeto
